@@ -12,4 +12,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://www.analyticsvidhya.com/blog/author/dmoonat/feed"
-          max_post_count: "4"
+          max_post_count: "5"
