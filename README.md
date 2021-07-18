@@ -18,6 +18,10 @@
 
 ---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmoonat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 <br/>
 💬 If you want to discuss anything, reach out to me via 📫 <a href="https://www.linkedin.com/in/deepak-moonat-977ab1140">Linkedin</a>, I would be happy to connect.:) 
 
