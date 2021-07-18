@@ -12,6 +12,12 @@
 - [Beginner’s Guide to Machine Learning Explainability](https://www.analyticsvidhya.com/blog/2021/06/beginners-guide-to-machine-learning-explainability/)
 <!-- BLOG-POST-LIST:END -->
 
+---
+
+![dmoonat's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmoonat&hide=contribs,prs&count_private=true&show_icons=true&theme=radical)
+
+---
+
 <br/>
 💬 If you want to discuss anything, reach out to me via 📫 <a href="https://www.linkedin.com/in/deepak-moonat-977ab1140">Linkedin</a>, I would be happy to connect.:) 
 
