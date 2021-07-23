@@ -17,17 +17,18 @@
 
 ![dmoonat's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmoonat&hide=contribs,prs&count_private=true&show_icons=true&theme=radical)
 
+<!--
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmoonat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
+-->
 <br/>
 💬 If you want to discuss anything, reach out to me via 📫 <a href="https://www.linkedin.com/in/deepak-moonat-977ab1140">Linkedin</a>, I would be happy to connect.:) 
 
 
-<!--
+
 **dmoonat/dmoonat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
