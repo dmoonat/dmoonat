@@ -6,14 +6,14 @@
 
 ### ⚡ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [HuggingFace Transformer Model Using Amazon Sagemaker](https://www.analyticsvidhya.com/blog/2022/01/huggingface-transformer-model-using-amazon-sagemaker/)
+- [Hugging Face Transformers Pipeline Functions | Advanced NLP](https://www.analyticsvidhya.com/blog/2022/01/hugging-face-transformers-pipeline-functions-advanced-nlp/)
 - [Fine-tune BERT Model for Sentiment Analysis in Google Colab](https://www.analyticsvidhya.com/blog/2021/12/fine-tune-bert-model-for-sentiment-analysis-in-google-colab/)
 - [How to maintain your GitHub Profile?](https://www.analyticsvidhya.com/blog/2021/12/github-profile-and-its-maintenance/)
 - [A Step by Step Guide to Create a CI/CD Pipeline with Google Cloud Services](https://www.analyticsvidhya.com/blog/2021/08/a-step-by-step-guide-to-create-a-ci-cd-pipeline-with-google-cloud-services/)
 - [A Step by Step Guide to Create a CI/CD Pipeline with AWS Services](https://www.analyticsvidhya.com/blog/2021/07/a-step-by-step-guide-to-create-a-ci-cd-pipeline-with-aws-services/)
 - [Deploying Machine learning Application on AWS Fargate](https://www.analyticsvidhya.com/blog/2021/06/deploying-machine-learning-application-on-aws-fargate/)
 - [Containerized Your Machine Learning WorkFlow With Docker : A Hands-on Guide](https://www.analyticsvidhya.com/blog/2021/06/a-hands-on-guide-to-containerized-your-machine-learning-workflow-with-docker/)
-- [Beginner’s Guide to Machine Learning Explainability](https://www.analyticsvidhya.com/blog/2021/06/beginners-guide-to-machine-learning-explainability/)
-- [Cowin-Notify -C Build Notification Service for availability of Vaccination Slots](https://www.analyticsvidhya.com/blog/2021/06/cowin-notify-c-build-notification-service-for-availability-of-vaccination-slots/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
