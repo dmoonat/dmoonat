@@ -18,7 +18,7 @@
 
 ---
 
-![dmoonat's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmoonat&hide=contribs,prs&count_private=true&show_icons=true&theme=radical)
+![dmoonat's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmoonat&count_private=true&show_icons=true&theme=radical)
 
 <!--
 ---
