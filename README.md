@@ -1,8 +1,9 @@
 ## Hi, I'm Deepak 👋
 
-- I'm a Machine Learning Engineer<!-- currently working for <a href="https://quantiphi.com/">Quantiphi</a>-->
+- I'm a Machine Learning Engineer
 - Passionate to transform business challenges to data driven decision making
-- Crafting solutions in Computer vision,NLP,and Forecasting Domains
+- Crafting solutions in Computer vision, NLP, and Forecasting Domains
+- Generative AI is the primary subject of my current work
 
 ### ⚡ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
